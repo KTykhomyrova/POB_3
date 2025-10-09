@@ -1,0 +1,7 @@
+C:\Users\uczen\Documents\3f\Polimorfyzm\poli3\bin\Debug\poli3.exe.config
+C:\Users\uczen\Documents\3f\Polimorfyzm\poli3\bin\Debug\poli3.exe
+C:\Users\uczen\Documents\3f\Polimorfyzm\poli3\bin\Debug\poli3.pdb
+C:\Users\uczen\Documents\3f\Polimorfyzm\poli3\obj\Debug\poli3.csproj.AssemblyReference.cache
+C:\Users\uczen\Documents\3f\Polimorfyzm\poli3\obj\Debug\poli3.csproj.CoreCompileInputs.cache
+C:\Users\uczen\Documents\3f\Polimorfyzm\poli3\obj\Debug\poli3.exe
+C:\Users\uczen\Documents\3f\Polimorfyzm\poli3\obj\Debug\poli3.pdb

@@ -1,0 +1,8 @@
+C:\Users\uczen\Documents\3f\Polimorfyzm\Polimorfyzm\bin\Debug\Polimorfyzm.exe.config
+C:\Users\uczen\Documents\3f\Polimorfyzm\Polimorfyzm\bin\Debug\Polimorfyzm.exe
+C:\Users\uczen\Documents\3f\Polimorfyzm\Polimorfyzm\bin\Debug\Polimorfyzm.pdb
+C:\Users\uczen\Documents\3f\Polimorfyzm\Polimorfyzm\obj\Debug\Polimorfyzm.csproj.AssemblyReference.cache
+C:\Users\uczen\Documents\3f\Polimorfyzm\Polimorfyzm\obj\Debug\Polimorfyzm.csproj.CoreCompileInputs.cache
+C:\Users\uczen\Documents\3f\Polimorfyzm\Polimorfyzm\obj\Debug\Polimorfyzm.exe
+C:\Users\uczen\Documents\3f\Polimorfyzm\Polimorfyzm\obj\Debug\Polimorfyzm.pdb
+C:\Users\uczen\Documents\3f\Polimorfyzm\Polimorfyzm\obj\Debug\Polimorfyzm.exe.config
