@@ -1,0 +1,8 @@
+C:\Users\uczen\Documents\Mod\Zadanie2\bin\Debug\Zadanie2.exe.config
+C:\Users\uczen\Documents\Mod\Zadanie2\bin\Debug\Zadanie2.exe
+C:\Users\uczen\Documents\Mod\Zadanie2\bin\Debug\Zadanie2.pdb
+C:\Users\uczen\Documents\Mod\Zadanie2\obj\Debug\Zadanie2.csproj.AssemblyReference.cache
+C:\Users\uczen\Documents\Mod\Zadanie2\obj\Debug\Zadanie2.csproj.CoreCompileInputs.cache
+C:\Users\uczen\Documents\Mod\Zadanie2\obj\Debug\Zadanie2.exe
+C:\Users\uczen\Documents\Mod\Zadanie2\obj\Debug\Zadanie2.pdb
+C:\Users\uczen\Documents\Mod\Zadanie2\obj\Debug\Zadanie2.exe.config

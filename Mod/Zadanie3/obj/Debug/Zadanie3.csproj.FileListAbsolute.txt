@@ -1,0 +1,8 @@
+C:\Users\uczen\Documents\Mod\Zadanie3\bin\Debug\Zadanie3.exe.config
+C:\Users\uczen\Documents\Mod\Zadanie3\bin\Debug\Zadanie3.exe
+C:\Users\uczen\Documents\Mod\Zadanie3\bin\Debug\Zadanie3.pdb
+C:\Users\uczen\Documents\Mod\Zadanie3\obj\Debug\Zadanie3.csproj.AssemblyReference.cache
+C:\Users\uczen\Documents\Mod\Zadanie3\obj\Debug\Zadanie3.csproj.CoreCompileInputs.cache
+C:\Users\uczen\Documents\Mod\Zadanie3\obj\Debug\Zadanie3.exe
+C:\Users\uczen\Documents\Mod\Zadanie3\obj\Debug\Zadanie3.pdb
+C:\Users\uczen\Documents\Mod\Zadanie3\obj\Debug\Zadanie3.exe.config
