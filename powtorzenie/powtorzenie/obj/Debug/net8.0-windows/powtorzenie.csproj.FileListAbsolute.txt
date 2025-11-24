@@ -1,0 +1,16 @@
+C:\Users\Uczen\Documents\3f\powtorzenie\powtorzenie\bin\Debug\net8.0-windows\powtorzenie.exe
+C:\Users\Uczen\Documents\3f\powtorzenie\powtorzenie\bin\Debug\net8.0-windows\powtorzenie.deps.json
+C:\Users\Uczen\Documents\3f\powtorzenie\powtorzenie\bin\Debug\net8.0-windows\powtorzenie.runtimeconfig.json
+C:\Users\Uczen\Documents\3f\powtorzenie\powtorzenie\bin\Debug\net8.0-windows\powtorzenie.dll
+C:\Users\Uczen\Documents\3f\powtorzenie\powtorzenie\bin\Debug\net8.0-windows\powtorzenie.pdb
+C:\Users\Uczen\Documents\3f\powtorzenie\powtorzenie\obj\Debug\net8.0-windows\powtorzenie.Form1.resources
+C:\Users\Uczen\Documents\3f\powtorzenie\powtorzenie\obj\Debug\net8.0-windows\powtorzenie.csproj.GenerateResource.cache
+C:\Users\Uczen\Documents\3f\powtorzenie\powtorzenie\obj\Debug\net8.0-windows\powtorzenie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uczen\Documents\3f\powtorzenie\powtorzenie\obj\Debug\net8.0-windows\powtorzenie.AssemblyInfoInputs.cache
+C:\Users\Uczen\Documents\3f\powtorzenie\powtorzenie\obj\Debug\net8.0-windows\powtorzenie.AssemblyInfo.cs
+C:\Users\Uczen\Documents\3f\powtorzenie\powtorzenie\obj\Debug\net8.0-windows\powtorzenie.csproj.CoreCompileInputs.cache
+C:\Users\Uczen\Documents\3f\powtorzenie\powtorzenie\obj\Debug\net8.0-windows\powtorzenie.dll
+C:\Users\Uczen\Documents\3f\powtorzenie\powtorzenie\obj\Debug\net8.0-windows\refint\powtorzenie.dll
+C:\Users\Uczen\Documents\3f\powtorzenie\powtorzenie\obj\Debug\net8.0-windows\powtorzenie.pdb
+C:\Users\Uczen\Documents\3f\powtorzenie\powtorzenie\obj\Debug\net8.0-windows\powtorzenie.genruntimeconfig.cache
+C:\Users\Uczen\Documents\3f\powtorzenie\powtorzenie\obj\Debug\net8.0-windows\ref\powtorzenie.dll
