@@ -1,0 +1,10 @@
+C:\Users\Uczen\Documents\3f\2.03\2.03\bin\Debug\2.03.exe.config
+C:\Users\Uczen\Documents\3f\2.03\2.03\bin\Debug\2.03.exe
+C:\Users\Uczen\Documents\3f\2.03\2.03\bin\Debug\2.03.pdb
+C:\Users\Uczen\Documents\3f\2.03\2.03\obj\Debug\2.03.csproj.AssemblyReference.cache
+C:\Users\Uczen\Documents\3f\2.03\2.03\obj\Debug\_2._03.Matematyka.resources
+C:\Users\Uczen\Documents\3f\2.03\2.03\obj\Debug\_2._03.Properties.Resources.resources
+C:\Users\Uczen\Documents\3f\2.03\2.03\obj\Debug\2.03.csproj.GenerateResource.cache
+C:\Users\Uczen\Documents\3f\2.03\2.03\obj\Debug\2.03.csproj.CoreCompileInputs.cache
+C:\Users\Uczen\Documents\3f\2.03\2.03\obj\Debug\2.03.exe
+C:\Users\Uczen\Documents\3f\2.03\2.03\obj\Debug\2.03.pdb
